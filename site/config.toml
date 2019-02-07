@@ -1,0 +1,4 @@
+baseURL = "https://xd-con.org"
+languageCode = "en-us"
+title = "XD Conferences"
+theme = "grapes"
