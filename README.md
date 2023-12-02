@@ -12,12 +12,19 @@ and place it somewhere on your path.
 
 ## Building the website
 
+Download the theme:
+
+```
+git submodule update --init
+```
+
 For development, start the development server using
 
 ```
+cd site
 hugo server
 ```
 
 and browse to http://localhost:1313.
 
-To deploy to https://xd-con.org, run `make github`.
+To deploy to https://xd-con.github.io, run `make github`.

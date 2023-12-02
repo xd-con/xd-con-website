@@ -1,2 +1,3 @@
 *~
-site/themes/*
+site/.hugo_build.lock
+site/resources

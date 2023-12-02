@@ -1,4 +1,4 @@
-baseURL = "https://xd-con.org"
+baseURL = "https://xd-con.github.io"
 languageCode = "en-us"
 title = "XD Conferences"
-theme = "grapes"
+theme = "archie"
